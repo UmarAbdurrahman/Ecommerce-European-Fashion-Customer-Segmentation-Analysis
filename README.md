@@ -104,8 +104,3 @@ The dataset highlights customer transactions between **April–June 2025**, reve
 ## 📊 Dashboard
 
 An interactive **RFM Segmentation Dashboard** was built in **Power BI**, providing insights into customer retention, product performance, and geographic analysis.
-
----
-
-
-👉 Mau saya tambahkan juga **preview gambar dashboard Power BI** ke README biar portofolionya lebih menarik secara visual?
