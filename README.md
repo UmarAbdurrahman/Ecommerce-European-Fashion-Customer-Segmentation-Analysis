@@ -1,5 +1,3 @@
----
-
 # 🛍️ Ecommerce European Fashion – Customer Segmentation Analysis
 
 ## 📌 Project Overview
