@@ -1,5 +1,3 @@
-Oke 👍 Saya buatkan **README profesional untuk GitHub** berdasarkan isi portofolio Anda tentang *Ecommerce European Fashion Customer Segmentation*.
-
 ---
 
 # 🛍️ Ecommerce European Fashion – Customer Segmentation Analysis
